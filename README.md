@@ -1,2 +1,1 @@
-# predicting_the_creditability_of_a_customer
-This projenct aims to predict whether a customer creditable or not
+The German Credit Data contains data on 20 variables and the classification whether an applicant is considered a Good or a Bad credit risk for 1000 loan applicants. A predictive model developed on this data is expected to provide a bank manager guidance for making a decision whether to approve a loan to a prospective applicant based on customer's profiles.
